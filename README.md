@@ -21,3 +21,8 @@ Both admin and employees have access to the purchases report page which is used 
 
 Link to the YouTube video can be find below:
 
+https://youtu.be/rbjiGTSMbJo
+
+Link to Database Demo can be found below:
+
+https://youtu.be/rbjiGTSMbJo
