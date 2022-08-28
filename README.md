@@ -1,6 +1,8 @@
 # Shoprite-IMS
 Inventory Management System for Shoprite Ghana created using C#
 
+The file is in the main branch under the name "10836624", with all the resources and code.
+
 This is a simple inventory management system made for shoprite Ghana.
 
 Below are the assumptions made when designing the system
